@@ -114,9 +114,6 @@ class Solution:
             if sorted(s2_1[i:(i+len(s1_1))]) == sorted(s1_1):
                 return True
         return False
-    
-    def a(b):
-        return b
                 
                 
 
